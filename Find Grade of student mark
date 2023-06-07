@@ -1,0 +1,9 @@
+a = float(input("enter marks"))
+if a > 80:
+  print("Grade A : ", a)
+elif a > 50 and a < 80:
+  print("Grade B : ", a)
+elif a > 35 and a < 550:
+  print("Grade C : ", a)
+else:
+  print("grade D")
