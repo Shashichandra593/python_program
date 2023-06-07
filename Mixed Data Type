@@ -1,0 +1,9 @@
+lst_of_dct=[
+{'name':'tom','age' : 10},
+{'name':'vinod' ,'age': 32},
+{'name':'shashi','age':30}
+   
+]
+print(lst_of_dct[0])
+print(lst_of_dct[1])
+print(lst_of_dct[2])
